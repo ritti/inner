@@ -3,8 +3,13 @@
 <dita>
   <topic id="COMMON_TOOLS_GETTING_STARTED_01">
     <title>Getting Started</title>
-    <shortdesc>This section provides information about Common Tools specific delivery content, installation and how to start.</shortdesc>
+    <shortdesc>This section provides information about Common Tools specific delivery content,
+      installation and how to start. Test it.</shortdesc>
     <body>
-  </body>
+      <image href="Logo4.png" id="image_msl_vcw_3y"/>
+      <p>Above you see a logo<?oxy_insert_start author="ritti" timestamp="20161222T085137+0200"?>
+        this is a review comment<?oxy_insert_end?>
+      </p>
+    </body>
   </topic>
 </dita>
